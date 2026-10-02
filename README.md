@@ -1,4 +1,5 @@
 ## hi there (┛◉Д◉)┛彡┻━┻
+<img src="Art-otachi0020b.png" />
 
 <!--
 **jeOliver26/jeOliver26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
