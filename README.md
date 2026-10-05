@@ -1,4 +1,4 @@
-## hi there (┛◉Д◉)┛彡┻━┻
+## hi there $\color{#800000}{\text{(┛◉Д◉)┛彡┻━┻}}$
 my bestiy fighting leatherback
 <img src="Art-otachi0020b.png" />
 
